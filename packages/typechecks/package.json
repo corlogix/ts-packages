@@ -1,0 +1,27 @@
+{
+	"name": "typechecks",
+	"version": "0.0.0",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/corlogix/knock.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"author": "corlogixco@gmail.com",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/corlogix/knock/issues"
+	},
+	"homepage": "https://github.com/corlogix/knock#readme",
+	"scripts": {
+		"build": "tsc",
+		"test": "nyc mocha src tests"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}
