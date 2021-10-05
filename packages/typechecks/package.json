@@ -1,6 +1,6 @@
 {
 	"name": "typechecks",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"repository": {
@@ -19,9 +19,5 @@
 	"scripts": {
 		"build": "tsc",
 		"test": "nyc mocha src tests"
-	},
-	"dependencies": {
-	},
-	"devDependencies": {
 	}
 }
