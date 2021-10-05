@@ -54,4 +54,6 @@ jobs:
 
       # PUBLISH
       - name: Publish
-        run: npm run publish
+        run: |
+          npm whoami
+          npm run publish
