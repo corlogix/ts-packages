@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/corlogix/knock/compare/typechecks@0.1.2...typechecks@0.1.3) (2021-10-05)
+
+**Note:** Version bump only for package typechecks
+
+
+
+
+
 ## [0.1.2](https://github.com/corlogix/knock/compare/typechecks@0.1.1...typechecks@0.1.2) (2021-10-05)
 
 
